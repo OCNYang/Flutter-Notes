@@ -34,7 +34,7 @@
 
 | 名称 | 介绍 |
 | :---: | :--- |
-| [**flutter_gallery**](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)<br/>![flutter_gallery](https://img.shields.io/badge/官方出品-推荐-red.svg) | ***官方开源地址中的 Demo：***<br/>**1.** 常用控件的常见场景的实现；<br/>**2.** 几则比较高级场景的实现演示；<br/>**3.** 在动画、2D场景、图片格式、媒体等方面展示 Flutter 全面功能。<br/><br/>官方出品，必是精品，也能看出 Google 的良苦用心 |
+| [**flutter_gallery**](https://github.com/flutter/gallery)<br/>![flutter_gallery](https://img.shields.io/badge/官方出品-推荐-red.svg) | ***官方开源地址中的 Demo：***<br/>**1.** 常用控件的常见场景的实现；<br/>**2.** 几则比较高级场景的实现演示；<br/>**3.** 在动画、2D场景、图片格式、媒体等方面展示 Flutter 全面功能。<br/><br/>官方出品，必是精品，也能看出 Google 的良苦用心 |
 | [**flutter-go**](https://github.com/alibaba/flutter-go) | ***阿里开源的关于介绍控件使用 Demo：***<br/>**1.** 基本上包含了绝大多数的控件[目前总 Widgets 数：145，此库宣称覆盖140+ 组件]；<br/>**2.** Demo 中多是对控件（构造函数）基本用法介绍；<br/>**3.** 推荐直接下载 App 观看学习，控件模块源码学习价值不大，可以查看应用整体实现 |
 | [**GSYGithubAppFlutter**](https://github.com/CarGuo/GSYGithubAppFlutter)<br/>![flutter_gallery](https://img.shields.io/badge/实战-推荐-red.svg) | ***超完整的开源 GitHub 客户端：***<br/>**1.** 功能上覆盖面广，实战性很强；<br/>**2.** 有很多开源库的实际使用；<br/>**3.** 有对应的系列详解文章；<br/>**4.** 并且很难得的是有同款 Weex 版、ReactNative 版、Android Kotlin 版，也可对比使用。 |
 | [**FlutterExampleApps**](https://github.com/iampawan/FlutterExampleApps) | ***TodoMVC for Flutte：***<br/>演示了如何构建代码、设计架构，便于测试和维护应用。 |
